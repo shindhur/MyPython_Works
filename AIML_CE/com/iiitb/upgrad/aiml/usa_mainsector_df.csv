@@ -1,0 +1,508 @@
+,primary_sector,count,sum,category_list,main_sector,value
+0,3D,44,385954865.0,3D,Manufacturing,1
+1,3D Printing,17,179566413.0,3D Printing,Manufacturing,1
+2,3D Technology,8,166657999.0,3D Technology,Manufacturing,1
+3,Accounting,54,474950137.0,Accounting,"Social, Finance, Analytics, Advertising",1
+4,Active Lifestyle,7,101340000.0,Active Lifestyle,Health,1
+5,Ad Targeting,102,1531938833.0,Ad Targeting,"Social, Finance, Analytics, Advertising",1
+6,Advanced Materials,10,128800000.0,Advanced Materials,Manufacturing,1
+7,Adventure Travel,3,6350000.0,Adventure Travel,Automotive & Sports,1
+8,Advertising,1725,21602842819.0,Advertising,"Social, Finance, Analytics, Advertising",1
+9,Advertising Exchanges,13,139253735.0,Advertising Exchanges,"Social, Finance, Analytics, Advertising",1
+10,Advertising Networks,4,7250000.0,Advertising Networks,"Social, Finance, Analytics, Advertising",1
+11,Advertising Platforms,34,502354998.0,Advertising Platforms,"Social, Finance, Analytics, Advertising",1
+12,Advice,13,142740578.0,Advice,Others,1
+13,Aerospace,51,1900432805.0,Aerospace,Automotive & Sports,1
+14,Agriculture,62,616008457.0,Agriculture,Manufacturing,1
+15,Algorithms,13,58326275.0,Algorithms,Others,1
+16,All Markets,12,54946086.0,All Markets,Others,1
+17,All Students,37,839854852.0,All Students,Others,1
+18,Alumni,7,30090000.0,Alumni,Others,1
+19,Android,246,2282605853.0,Android,"Social, Finance, Analytics, Advertising",1
+20,Angels,3,16400000.0,Angels,Others,1
+21,Animal Feed,3,10050000.0,Animal Feed,Health,1
+22,Anything Capital Intensive,1,22000.0,Anything Capital Intensive,"Social, Finance, Analytics, Advertising",1
+23,App Discovery,2,1268469.0,App Discovery,"News, Search and Messaging",1
+24,App Marketing,28,244113749.0,App Marketing,"News, Search and Messaging",1
+25,App Stores,6,35480000.0,App Stores,"News, Search and Messaging",1
+26,Application Performance Monitoring,45,735403640.0,Application Performance Monitoring,"News, Search and Messaging",1
+27,Application Platforms,56,685422335.0,Application Platforms,"News, Search and Messaging",1
+28,Apps,303,3826022874.0,Apps,"News, Search and Messaging",1
+29,Architecture,16,126179748.0,Architecture,Manufacturing,1
+30,Archiving,17,203386770.0,Archiving,"News, Search and Messaging",1
+31,Art,41,358545393.0,Art,Entertainment,1
+32,Artificial Intelligence,33,252873622.0,Artificial Intelligence,"Social, Finance, Analytics, Advertising",1
+33,Artists Globally,19,173730159.0,Artists Globally,Entertainment,1
+34,Assisitive Technology,11,9652292.0,Assisitive Technology,Health,1
+35,Assisted Living,9,29848347.0,Assisted Living,Health,1
+36,Auctions,27,262329521.0,Auctions,"Social, Finance, Analytics, Advertising",1
+37,Audio,76,527019766.0,Audio,Entertainment,1
+38,Audiobooks,1,600000.0,Audiobooks,Entertainment,1
+39,Augmented Reality,15,683869637.0,Augmented Reality,"Social, Finance, Analytics, Advertising",1
+40,Auto,13,135695800.0,Auto,Automotive & Sports,1
+41,Automated Kiosk,4,37637500.0,Automated Kiosk,Automotive & Sports,1
+42,Automotive,196,7190922935.0,Automotive,Automotive & Sports,1
+43,B2B,86,858515868.0,B2B,"Social, Finance, Analytics, Advertising",1
+44,BPO Services,3,19500000.0,BPO Services,"Social, Finance, Analytics, Advertising",1
+45,Babies,8,163975539.0,Babies,Health,1
+46,Baby Accessories,4,35196193.0,Baby Accessories,Health,1
+47,Baby Boomers,4,23519998.0,Baby Boomers,Health,1
+48,Baby Safety,1,1875000.0,Baby Safety,Health,1
+49,Banking,61,480869793.0,Banking,"Social, Finance, Analytics, Advertising",1
+50,Batteries,61,1150027885.0,Batteries,Manufacturing,1
+51,Beauty,60,624613552.0,Beauty,Health,1
+52,Bicycles,5,14450000.0,Bicycles,Automotive & Sports,1
+53,Big Data,202,2581505151.0,Big Data,"Social, Finance, Analytics, Advertising",1
+54,Billing,30,442450500.0,Billing,"Social, Finance, Analytics, Advertising",1
+55,Bio-Pharm,68,1410303554.0,Bio-Pharm,Cleantech / Semiconductors,1
+56,Biofuels,3,23040019.0,Biofuels,Cleantech / Semiconductors,1
+57,Bioinformatics,6,11088328.0,Bioinformatics,Cleantech / Semiconductors,1
+58,Biometrics,16,264977849.0,Biometrics,Cleantech / Semiconductors,1
+59,Biotechnology,5577,66668669984.0,Biotechnology,Cleantech / Semiconductors,1
+60,Bitcoin,28,437750598.0,Bitcoin,Cleantech / Semiconductors,1
+61,Blogging Platforms,61,681494028.0,Blogging Platforms,"News, Search and Messaging",1
+62,Brand Marketing,69,362613007.0,Brand Marketing,"Social, Finance, Analytics, Advertising",1
+63,Brewing,1,4400000.0,Brewing,Entertainment,1
+64,Bridging Online and Offline,10,116700000.0,Bridging Online and Offline,"Social, Finance, Analytics, Advertising",1
+65,Broadcasting,41,411250503.0,Broadcasting,"News, Search and Messaging",1
+66,Brokers,12,214964228.0,Brokers,"News, Search and Messaging",1
+67,Browser Extensions,15,132000000.0,Browser Extensions,"News, Search and Messaging",1
+68,Building Products,3,31400000.0,Building Products,Manufacturing,1
+69,Business Development,19,150228160.0,Business Development,"Social, Finance, Analytics, Advertising",1
+70,Business Information Systems,3,21060000.0,Business Information Systems,"Social, Finance, Analytics, Advertising",1
+71,Business Intelligence,41,870732887.0,Business Intelligence,"Social, Finance, Analytics, Advertising",1
+72,Business Productivity,18,274642716.0,Business Productivity,"Social, Finance, Analytics, Advertising",1
+73,Business Services,176,2269455132.0,Business Services,"Social, Finance, Analytics, Advertising",1
+74,CAD,8,162945693.0,CAD,Automotive & Sports,1
+75,CRM,85,841003402.0,CRM,"Social, Finance, Analytics, Advertising",1
+76,Cable,10,113261099.0,Cable,"News, Search and Messaging",1
+77,Call Center Automation,5,22850000.0,Call Center Automation,"News, Search and Messaging",1
+78,Carbon,5,13500000.0,Carbon,Cleantech / Semiconductors,1
+79,Career Planning,10,36950000.0,Career Planning,"Social, Finance, Analytics, Advertising",1
+80,Cars,15,155101487.0,Cars,Automotive & Sports,1
+81,Celebrity,6,35510000.0,Celebrity,Entertainment,1
+82,Certification Test,10,89300000.0,Certification Test,"News, Search and Messaging",1
+83,Charity,5,23275000.0,Charity,"Social, Finance, Analytics, Advertising",1
+84,Charter Schools,5,14315378.0,Charter Schools,"Social, Finance, Analytics, Advertising",1
+85,Chat,59,530472580.0,Chat,"News, Search and Messaging",1
+86,Chemicals,22,460043166.0,Chemicals,Cleantech / Semiconductors,1
+87,Child Care,1,9600000.0,Child Care,Health,1
+88,Classifieds,2,88800000.0,Classifieds,"News, Search and Messaging",1
+89,Clean Energy,70,1353641550.0,Clean Energy,Cleantech / Semiconductors,1
+90,Clean Technology,1185,18245591909.0,Clean Technology,Cleantech / Semiconductors,1
+91,Clean Technology IT,1,960205.0,Clean Technology IT,Cleantech / Semiconductors,1
+92,Clinical Trials,11,99496140.0,Clinical Trials,Health,1
+93,Cloud Computing,494,6122604057.0,Cloud Computing,"News, Search and Messaging",1
+94,Cloud Data Services,65,1527832102.0,Cloud Data Services,"News, Search and Messaging",1
+95,Cloud Infrastructure,57,572854992.0,Cloud Infrastructure,"News, Search and Messaging",1
+96,Cloud Security,64,841266308.0,Cloud Security,"News, Search and Messaging",1
+97,Coffee,6,146100000.0,Coffee,Entertainment,1
+98,Collaboration,179,2492305790.0,Collaboration,"Social, Finance, Analytics, Advertising",1
+99,Collaborative Consumption,14,93965000.0,Collaborative Consumption,"Social, Finance, Analytics, Advertising",1
+100,College Campuses,3,8900000.0,College Campuses,Others,1
+101,College Recruiting,2,10200000.0,College Recruiting,"Social, Finance, Analytics, Advertising",1
+102,Colleges,65,672244642.0,Colleges,"Social, Finance, Analytics, Advertising",1
+103,Comics,4,19605514.0,Comics,Entertainment,1
+104,Commercial Real Estate,27,242595713.0,Commercial Real Estate,"News, Search and Messaging",1
+105,Commercial Solar,4,15860000.0,Commercial Solar,Cleantech / Semiconductors,1
+106,Commodities,4,407520000.0,Commodities,Cleantech / Semiconductors,1
+107,Communications Hardware,63,1139681621.0,Communications Hardware,Manufacturing,1
+108,Communications Infrastructure,43,610676222.0,Communications Infrastructure,Manufacturing,1
+109,Communities,52,693516666.0,Communities,"Social, Finance, Analytics, Advertising",1
+110,Comparison Shopping,5,11145000.0,Comparison Shopping,"News, Search and Messaging",1
+111,Computer Vision,9,46782925.0,Computer Vision,Manufacturing,1
+112,Computers,128,1363512695.0,Computers,Manufacturing,1
+113,Concentrated Solar Power,6,335236464.0,Concentrated Solar Power,Cleantech / Semiconductors,1
+114,Concerts,20,184818000.0,Concerts,Entertainment,1
+115,Console Gaming,2,5653000.0,Console Gaming,Entertainment,1
+116,Construction,34,577862404.0,Construction,Manufacturing,1
+117,Consulting,223,1712094763.0,Consulting,"Social, Finance, Analytics, Advertising",1
+118,Consumer Behavior,2,12000000.0,Consumer Behavior,"Social, Finance, Analytics, Advertising",1
+119,Consumer Electronics,123,1594833634.0,Consumer Electronics,Manufacturing,1
+120,Consumer Goods,78,589115844.0,Consumer Goods,Manufacturing,1
+121,Consumer Internet,41,449292316.0,Consumer Internet,"Social, Finance, Analytics, Advertising",1
+122,Consumer Lending,18,321949999.0,Consumer Lending,"Social, Finance, Analytics, Advertising",1
+123,Consumers,30,457328981.0,Consumers,"Social, Finance, Analytics, Advertising",1
+124,Contact Centers,6,60025013.0,Contact Centers,"Social, Finance, Analytics, Advertising",1
+125,Content,114,1354500170.0,Content,Entertainment,1
+126,Content Creators,14,266800000.0,Content Creators,Entertainment,1
+127,Content Delivery,34,561074399.0,Content Delivery,Entertainment,1
+128,Content Discovery,13,46419372.0,Content Discovery,Entertainment,1
+129,Content Syndication,10,430805435.0,Content Syndication,Entertainment,1
+130,Contests,2,2235000.0,Contests,Entertainment,1
+131,Cooking,22,376682701.0,Cooking,Health,1
+132,Corporate IT,14,208432042.0,Corporate IT,"Social, Finance, Analytics, Advertising",1
+133,Corporate Training,10,45644639.0,Corporate Training,"Social, Finance, Analytics, Advertising",1
+134,Corporate Wellness,5,12905500.0,Corporate Wellness,Health,1
+135,Cosmetic Surgery,1,12400000.0,Cosmetic Surgery,Health,1
+136,Cosmetics,3,6655000.0,Cosmetics,Health,1
+137,Coupons,24,171850000.0,Coupons,"Social, Finance, Analytics, Advertising",1
+138,Coworking,3,47500000.0,Coworking,"Social, Finance, Analytics, Advertising",1
+139,Craft Beer,4,6514003.0,Craft Beer,Entertainment,1
+140,Creative,3,2050000.0,Creative,Entertainment,1
+141,Creative Industries,3,9650000.0,Creative Industries,Entertainment,1
+142,Credit,45,1357852000.0,Credit,"Social, Finance, Analytics, Advertising",1
+143,Credit Cards,18,428181124.0,Credit Cards,"Social, Finance, Analytics, Advertising",1
+144,Crowdfunding,33,259983822.0,Crowdfunding,"Social, Finance, Analytics, Advertising",1
+145,Crowdsourcing,52,578654749.0,Crowdsourcing,"Social, Finance, Analytics, Advertising",1
+146,Curated Web,983,8798337989.0,Curated Web,"News, Search and Messaging",1
+147,Custom Retail,1,119657790.0,Custom Retail,"Social, Finance, Analytics, Advertising",1
+148,Customer Service,74,670062729.0,Customer Service,"Social, Finance, Analytics, Advertising",1
+149,Customer Support Tools,9,61447890.0,Customer Support Tools,"Social, Finance, Analytics, Advertising",1
+150,Cyber,24,322337996.0,Cyber,"Social, Finance, Analytics, Advertising",1
+151,Cyber Security,60,966594289.0,Cyber Security,"Social, Finance, Analytics, Advertising",1
+152,DIY,3,11700000.0,DIY,Others,1
+153,DOD/Military,3,7800000.0,DOD/Military,Manufacturing,1
+154,Data Center Automation,8,65750002.0,Data Center Automation,"Social, Finance, Analytics, Advertising",1
+155,Data Center Infrastructure,7,152723823.0,Data Center Infrastructure,"Social, Finance, Analytics, Advertising",1
+156,Data Centers,42,539169860.0,Data Centers,"Social, Finance, Analytics, Advertising",1
+157,Data Integration,24,275474069.0,Data Integration,"Social, Finance, Analytics, Advertising",1
+158,Data Mining,6,61562275.0,Data Mining,"Social, Finance, Analytics, Advertising",1
+159,Data Privacy,6,200000000.0,Data Privacy,"Social, Finance, Analytics, Advertising",1
+160,Data Security,62,642573462.0,Data Security,"Social, Finance, Analytics, Advertising",1
+161,Data Visualization,6,174800000.0,Data Visualization,"Social, Finance, Analytics, Advertising",1
+162,Databases,63,759964434.0,Databases,"Social, Finance, Analytics, Advertising",1
+163,Debt Collecting,1,4000000.0,Debt Collecting,"Social, Finance, Analytics, Advertising",1
+164,Defense,5,63855000.0,Defense,Manufacturing,1
+165,Delivery,37,519555661.0,Delivery,"News, Search and Messaging",1
+166,Demographies,3,18954964.0,Demographies,"News, Search and Messaging",1
+167,Dental,13,337918158.0,Dental,Health,1
+168,Design,110,1333295937.0,Design,Automotive & Sports,1
+169,Designers,6,34070146.0,Designers,Automotive & Sports,1
+170,Developer APIs,37,220994076.0,Developer APIs,"Social, Finance, Analytics, Advertising",1
+171,Developer Tools,13,65204796.0,Developer Tools,"Social, Finance, Analytics, Advertising",1
+172,Development Platforms,19,284748957.0,Development Platforms,"Social, Finance, Analytics, Advertising",1
+173,Diabetes,5,6551669.0,Diabetes,Health,1
+174,Diagnostics,42,368405702.0,Diagnostics,Health,1
+175,Dietary Supplements,3,16477000.0,Dietary Supplements,Health,1
+176,Digital Entertainment,10,144278414.0,Digital Entertainment,Entertainment,1
+177,Digital Media,106,993412068.0,Digital Media,Entertainment,1
+178,Direct Marketing,5,3155683.0,Direct Marketing,"News, Search and Messaging",1
+179,Direct Sales,5,16350341.0,Direct Sales,"News, Search and Messaging",1
+180,Discounts,8,74473279.0,Discounts,"Social, Finance, Analytics, Advertising",1
+181,Displays,8,123183000.0,Displays,Manufacturing,1
+182,Disruptive Models,1,9200000.0,Disruptive Models,Cleantech / Semiconductors,1
+183,Distribution,16,208441675.0,Distribution,Others,1
+184,Distributors,6,35725891.0,Distributors,Others,1
+185,Doctors,18,171855002.0,Doctors,Health,1
+186,Domains,11,126960000.0,Domains,"News, Search and Messaging",1
+187,Drones,10,230150000.0,Drones,Automotive & Sports,1
+188,E-Books,10,78860000.0,E-Books,Entertainment,1
+189,E-Commerce,885,10554540815.0,E-Commerce,Others,1
+190,E-Commerce Platforms,9,35405725.0,E-Commerce Platforms,Others,1
+191,EBooks,1,6000000.0,EBooks,Entertainment,1
+192,EDA Tools,2,18500986.0,EDA Tools,Others,1
+193,Early-Stage Technology,2,2950000.0,Early-Stage Technology,Cleantech / Semiconductors,1
+194,EdTech,154,2166855763.0,EdTech,Others,1
+195,Ediscovery,18,114124285.0,Ediscovery,Others,1
+196,Education,264,3568310153.0,Education,Others,1
+197,Edutainment,0,0.0,Edutainment,Entertainment,1
+198,Elder Care,4,173781803.0,Elder Care,Health,1
+199,Electric Vehicles,3,14862152.0,Electric Vehicles,Automotive & Sports,1
+200,Electrical Distribution,17,104478035.0,Electrical Distribution,Manufacturing,1
+201,Electronic Health Records,28,352450572.0,Electronic Health Records,Health,1
+202,Electronics,80,718787363.0,Electronics,Manufacturing,1
+203,Email,35,233607450.0,Email,"News, Search and Messaging",1
+204,Email Marketing,8,45876279.0,Email Marketing,"Social, Finance, Analytics, Advertising",1
+205,Embedded Hardware and Software,2,26000000.0,Embedded Hardware and Software,Manufacturing,1
+206,Emerging Markets,3,20480000.0,Emerging Markets,Others,1
+207,Employer Benefits Programs,21,238087291.0,Employer Benefits Programs,"Social, Finance, Analytics, Advertising",1
+208,Employment,13,163100000.0,Employment,Others,1
+209,Energy,66,1827831579.0,Energy,Cleantech / Semiconductors,1
+210,Energy Efficiency,32,293317309.0,Energy Efficiency,Cleantech / Semiconductors,1
+211,Energy IT,3,10409401.0,Energy IT,Cleantech / Semiconductors,1
+212,Engineering Firms,3,5384500.0,Engineering Firms,Others,1
+213,Enterprise 2.0,4,25388374.0,Enterprise 2.0,Others,1
+214,Enterprise Application,6,82499000.0,Enterprise Application,Others,1
+215,Enterprise Purchasing,1,19800000.0,Enterprise Purchasing,"Social, Finance, Analytics, Advertising",1
+216,Enterprise Resource Planning,1,15000000.0,Enterprise Resource Planning,Others,1
+217,Enterprise Search,7,19487500.0,Enterprise Search,"News, Search and Messaging",1
+218,Enterprise Security,1,4250000.0,Enterprise Security,Others,1
+219,Enterprise Software,1481,16069229862.0,Enterprise Software,Others,1
+220,Enterprises,71,755704673.0,Enterprises,Others,1
+221,Entertainment,111,947689241.0,Entertainment,Entertainment,1
+222,Entertainment Industry,7,114327381.0,Entertainment Industry,Entertainment,1
+223,Entrepreneur,6,4155000.0,Entrepreneur,Others,1
+224,Environmental Innovation,19,83557576.0,Environmental Innovation,Cleantech / Semiconductors,1
+225,Events,21,42511207.0,Events,Entertainment,1
+226,Exercise,4,34327500.0,Exercise,Health,1
+227,Eyewear,2,13437000.0,Eyewear,Health,1
+228,Facebook Applications,74,1340777816.0,Facebook Applications,"Social, Finance, Analytics, Advertising",1
+229,Families,2,5100000.0,Families,Others,1
+230,Fantasy Sports,22,780459114.0,Fantasy Sports,Entertainment,1
+231,Farming,12,38477125.0,Farming,Manufacturing,1
+232,Fashion,117,1271555472.0,Fashion,Entertainment,1
+233,Fertility,1,800000.0,Fertility,Cleantech / Semiconductors,1
+234,File Sharing,21,1293940600.0,File Sharing,Others,1
+235,Film,10,53015947.0,Film,Entertainment,1
+236,FinTech,17,117826775.0,FinTech,"Social, Finance, Analytics, Advertising",1
+237,Fitness,59,365938120.0,Fitness,Health,1
+238,Flash Storage,27,249215972.0,Flash Storage,Others,1
+239,Food Processing,17,128069999.0,Food Processing,Manufacturing,1
+240,Fraud Detection,13,146620201.0,Fraud Detection,"Social, Finance, Analytics, Advertising",1
+241,Freelancers,5,37649857.0,Freelancers,Others,1
+242,Freemium,4,31112740.0,Freemium,"Social, Finance, Analytics, Advertising",1
+243,FreetoPlay Gaming,3,48500000.0,FreetoPlay Gaming,Entertainment,1
+244,Fuels,1,2500000.0,Fuels,Automotive & Sports,1
+245,Furniture,2,1649999.0,Furniture,Manufacturing,1
+246,Gadget,3,7500000.0,Gadget,Manufacturing,1
+247,Gambling,6,28529999.0,Gambling,Entertainment,1
+248,Game,8,66475000.0,Game,Entertainment,1
+249,Game Mechanics,3,16126000.0,Game Mechanics,Entertainment,1
+250,Games,589,4703276004.0,Games,Entertainment,1
+251,Gamification,3,4725000.0,Gamification,Entertainment,1
+252,Genetic Testing,0,0.0,Genetic Testing,Health,1
+253,Geospatial,3,57995114.0,Geospatial,Others,1
+254,Gift Card,7,20185040.0,Gift Card,Others,1
+255,Gift Exchange,2,325000.0,Gift Exchange,Others,1
+256,Gift Registries,1,4000000.0,Gift Registries,Others,1
+257,Gold,1,1600000.0,Gold,"Social, Finance, Analytics, Advertising",1
+258,Government Innovation,0,0.0,Government Innovation,Others,1
+259,Governments,7,76314364.0,Governments,Others,1
+260,Gps,23,337411138.0,Gps,"News, Search and Messaging",1
+261,Graphics,4,29402500.0,Graphics,"News, Search and Messaging",1
+262,Green Consumer Goods,1,2200000.0,Green Consumer Goods,Cleantech / Semiconductors,1
+263,Guides,5,27452231.0,Guides,Others,1
+264,Hardware,69,1318165504.0,Hardware,Manufacturing,1
+265,Hardware + Software,997,7987464541.0,Hardware + Software,Manufacturing,1
+266,Health Care,1536,16670312065.0,Health Care,Health,1
+267,Health Care Information Technology,39,186844204.0,Health Care Information Technology,Health,1
+268,Health Diagnostics,39,178523370.0,Health Diagnostics,Health,1
+269,Health Services Industry,3,16657019.0,Health Services Industry,Health,1
+270,Health and Insurance,8,103370000.0,Health and Insurance,Health,1
+271,Health and Wellness,886,6642108802.0,Health and Wellness,Health,1
+272,Healthcare Services,21,197674199.0,Healthcare Services,Health,1
+273,Heavy Industry,3,51000000.0,Heavy Industry,Automotive & Sports,1
+274,High Tech,1,6600000.0,High Tech,Others,1
+275,Home & Garden,12,26737500.0,Home & Garden,Cleantech / Semiconductors,1
+276,Home Automation,17,326350000.0,Home Automation,Cleantech / Semiconductors,1
+277,Home Decor,2,19999890.0,Home Decor,Cleantech / Semiconductors,1
+278,Homeland Security,4,6997000.0,Homeland Security,Others,1
+279,Hospitality,154,1470927934.0,Hospitality,Others,1
+280,Hospitals,13,68250711.0,Hospitals,Health,1
+281,Hotels,26,995591248.0,Hotels,Entertainment,1
+282,Human Computer Interaction,2,23900000.0,Human Computer Interaction,Others,1
+283,Human Resource Automation,2,28009992.0,Human Resource Automation,Others,1
+284,Human Resources,31,241239317.0,Human Resources,Others,1
+285,Humanitarian,2,4700000.0,Humanitarian,Others,1
+286,IT and Cybersecurity,9,31276580.0,IT and Cybersecurity,Others,1
+287,Identity,10,139840611.0,Identity,Others,1
+288,Image Recognition,3,26000000.0,Image Recognition,"Social, Finance, Analytics, Advertising",1
+289,In-Flight Entertainment,1,15000000.0,In-Flight Entertainment,Entertainment,1
+290,Incentives,1,250000.0,Incentives,"Social, Finance, Analytics, Advertising",1
+291,Incubators,4,10560245.0,Incubators,"Social, Finance, Analytics, Advertising",1
+292,Independent Pharmacies,2,15745869.0,Independent Pharmacies,Health,1
+293,Indoor Positioning,2,13000000.0,Indoor Positioning,Others,1
+294,Industrial,11,96434418.0,Industrial,Manufacturing,1
+295,Industrial Automation,10,102974507.0,Industrial Automation,Automotive & Sports,1
+296,Information Security,18,124303997.0,Information Security,"Social, Finance, Analytics, Advertising",1
+297,Information Services,31,922261530.0,Information Services,"Social, Finance, Analytics, Advertising",1
+298,Information Technology,132,1337956858.0,Information Technology,"Social, Finance, Analytics, Advertising",1
+299,Infrastructure,16,144134000.0,Infrastructure,"Social, Finance, Analytics, Advertising",1
+300,Innovation Engineering,9,136174848.0,Innovation Engineering,"Social, Finance, Analytics, Advertising",1
+301,Insurance,10,677499999.0,Insurance,"Social, Finance, Analytics, Advertising",1
+302,Intellectual Property,2,10000000.0,Intellectual Property,Others,1
+303,Intelligent Systems,8,19536396.0,Intelligent Systems,Others,1
+304,Interest Graph,1,3000000.0,Interest Graph,Others,1
+305,Interface Design,1,3800000.0,Interface Design,Entertainment,1
+306,Interior Design,1,200000.0,Interior Design,Entertainment,1
+307,Internet,202,2397156781.0,Internet,"News, Search and Messaging",1
+308,Internet Infrastructure,5,64480000.0,Internet Infrastructure,"News, Search and Messaging",1
+309,Internet Marketing,36,230189925.0,Internet Marketing,"Social, Finance, Analytics, Advertising",1
+310,Internet Radio Market,6,24200000.0,Internet Radio Market,"News, Search and Messaging",1
+311,Internet Service Providers,9,55750000.0,Internet Service Providers,"News, Search and Messaging",1
+312,Internet of Things,26,177912649.0,Internet of Things,"Social, Finance, Analytics, Advertising",1
+313,Lasers,15,338328752.0,Lasers,Health,1
+314,Law Enforcement,1,3214186.0,Law Enforcement,Others,1
+315,Lead Generation,7,110375000.0,Lead Generation,Others,1
+316,Legal,43,427450935.0,Legal,Others,1
+317,Leisure,5,29459999.0,Leisure,Entertainment,1
+318,Life Sciences,7,15210333.0,Life Sciences,Others,1
+319,Lifestyle,11,133670195.0,Lifestyle,Entertainment,1
+320,Lifestyle Businesses,2,10453678.0,Lifestyle Businesses,Entertainment,1
+321,Lighting,4,31000000.0,Lighting,Cleantech / Semiconductors,1
+322,Limousines,1,20000000.0,Limousines,Automotive & Sports,1
+323,Linux,8,78630455.0,Linux,Others,1
+324,Local,8,30250000.0,Local,Others,1
+325,Local Advertising,1,180000.0,Local Advertising,"Social, Finance, Analytics, Advertising",1
+326,Local Based Services,3,28500000.0,Local Based Services,Others,1
+327,Local Businesses,22,114069410.0,Local Businesses,Others,1
+328,Local Search,10,94799999.0,Local Search,"News, Search and Messaging",1
+329,Location Based Services,28,274303482.0,Location Based Services,Others,1
+330,Logistics,18,270754620.0,Logistics,Others,1
+331,Logistics Company,1,7000000.0,Logistics Company,Others,1
+332,Loyalty Programs,15,88839900.0,Loyalty Programs,Others,1
+333,M2M,2,12608000.0,M2M,Others,1
+334,Machine Learning,13,72947023.0,Machine Learning,"Social, Finance, Analytics, Advertising",1
+335,Manufacturing,498,4701017567.0,Manufacturing,Manufacturing,1
+336,Maps,5,22156799.0,Maps,"News, Search and Messaging",1
+337,Market Research,11,109135236.0,Market Research,"Social, Finance, Analytics, Advertising",1
+338,Marketing Automation,10,82370000.0,Marketing Automation,"Social, Finance, Analytics, Advertising",1
+339,Marketplaces,33,376224137.0,Marketplaces,Others,1
+340,Mass Customization,1,1600000.0,Mass Customization,Others,1
+341,Match-Making,2,5050000.0,Match-Making,Others,1
+342,Material Science,1,8376852.0,Material Science,Cleantech / Semiconductors,1
+343,Mechanical Solutions,1,400500.0,Mechanical Solutions,Cleantech / Semiconductors,1
+344,Media,39,281564375.0,Media,Entertainment,1
+345,Medical,48,463503914.0,Medical,Health,1
+346,Medical Devices,108,594893805.0,Medical Devices,Health,1
+347,Meeting Software,1,15000000.0,Meeting Software,"News, Search and Messaging",1
+348,Mens Specific,1,4500000.0,Mens Specific,Health,1
+349,Messaging,155,1171655070.0,Messaging,"News, Search and Messaging",1
+350,Mining Technologies,1,12233209.0,Mining Technologies,Cleantech / Semiconductors,1
+351,Mobile,1142,10950985872.0,Mobile,"News, Search and Messaging",1
+352,Mobile Commerce,8,145944560.0,Mobile Commerce,"Social, Finance, Analytics, Advertising",1
+353,Mobile Devices,3,23021057.0,Mobile Devices,"News, Search and Messaging",1
+354,Mobile Enterprise,2,19540000.0,Mobile Enterprise,"News, Search and Messaging",1
+355,Mobile Games,4,26292310.0,Mobile Games,Entertainment,1
+356,Mobile Health,4,12500000.0,Mobile Health,Health,1
+357,Mobile Infrastructure,2,62000000.0,Mobile Infrastructure,Manufacturing,1
+358,Mobile Payments,6,41443344.0,Mobile Payments,"Social, Finance, Analytics, Advertising",1
+359,Mobile Security,8,401300000.0,Mobile Security,Others,1
+360,Mobile Shopping,0,0.0,Mobile Shopping,"Social, Finance, Analytics, Advertising",1
+361,Mobility,4,18678407.0,Mobility,Others,1
+362,Music,102,531256385.0,Music,Entertainment,1
+363,Music Venues,1,525000.0,Music Venues,Entertainment,1
+364,Network Security,34,302934383.0,Network Security,Others,1
+365,Networking,89,1474335600.0,Networking,Others,1
+366,Neuroscience,0,0.0,Neuroscience,Health,1
+367,New Technologies,2,15572999.0,New Technologies,Manufacturing,1
+368,News,122,1141192903.0,News,"News, Search and Messaging",1
+369,Non Profit,3,67435830.0,Non Profit,Others,1
+370,Non-Tech,5,777000.0,Non-Tech,Others,1
+371,Nonprofits,37,548786801.0,Nonprofits,Others,1
+372,Nutrition,4,15427723.0,Nutrition,Health,1
+373,Oil,5,33265000.0,Oil,Others,1
+374,Oil & Gas,10,93760806.0,Oil & Gas,Others,1
+375,Online Gaming,1,1600000.0,Online Gaming,Entertainment,1
+376,Online Identity,1,7000000.0,Online Identity,Others,1
+377,Online Rental,5,23574998.0,Online Rental,"News, Search and Messaging",1
+378,Online Reservations,1,110000.0,Online Reservations,"News, Search and Messaging",1
+379,Online Scheduling,1,25000000.0,Online Scheduling,"News, Search and Messaging",1
+380,Online Shopping,4,5657000.0,Online Shopping,"News, Search and Messaging",1
+381,Online Travel,3,4800000.0,Online Travel,"News, Search and Messaging",1
+382,Open Source,19,171751875.0,Open Source,Others,1
+383,Opinions,4,6941502.0,Opinions,Others,1
+384,Optical Communications,8,139572727.0,Optical Communications,Manufacturing,1
+385,Optimization,7,36600000.0,Optimization,Others,1
+386,Organic Food,2,75000000.0,Organic Food,Health,1
+387,Outdoors,1,100000.0,Outdoors,Health,1
+388,Outsourcing,10,126760000.0,Outsourcing,Others,1
+389,P2P Money Transfer,1,1154995.0,P2P Money Transfer,"Social, Finance, Analytics, Advertising",1
+390,PaaS,3,14270000.0,PaaS,"Social, Finance, Analytics, Advertising",1
+391,Parking,4,35000000.0,Parking,Others,1
+392,Payments,15,299890551.0,Payments,"Social, Finance, Analytics, Advertising",1
+393,Pets,20,143322047.0,Pets,Health,1
+394,Pharmaceuticals,97,1380660781.0,Pharmaceuticals,Health,1
+395,Photo Editing,3,19000000.0,Photo Editing,Entertainment,1
+396,Photo Sharing,2,6746785.0,Photo Sharing,Entertainment,1
+397,Photography,51,424179877.0,Photography,Entertainment,1
+398,Physical Security,1,13000000.0,Physical Security,Others,1
+399,Physicians,7,90750000.0,Physicians,Health,1
+400,Point of Sale,2,2571352.0,Point of Sale,Others,1
+401,Politics,2,46900000.0,Politics,Others,1
+402,Polling,2,3382499.0,Polling,Others,1
+403,Portals,1,10000000.0,Portals,Others,1
+404,Presentations,1,14000000.0,Presentations,Others,1
+405,Price Comparison,1,6250000.0,Price Comparison,"Social, Finance, Analytics, Advertising",1
+406,Printing,3,32850216.0,Printing,Others,1
+407,Privacy,6,85117000.0,Privacy,Others,1
+408,Private School,1,75000000.0,Private School,Others,1
+409,Procurement,1,1000000.0,Procurement,Others,1
+410,Product Design,4,69800000.0,Product Design,Others,1
+411,Product Development Services,1,34999988.0,Product Development Services,Others,1
+412,Productivity Software,2,3500000.0,Productivity Software,Others,1
+413,Public Relations,87,1487613849.0,Public Relations,"Social, Finance, Analytics, Advertising",1
+414,Public Safety,3,138399999.0,Public Safety,Health,1
+415,Public Transportation,56,846719227.0,Public Transportation,Health,1
+416,Publishing,16,109824203.0,Publishing,"News, Search and Messaging",1
+417,QR Codes,3,2256071.0,QR Codes,Others,1
+418,RFID,4,43604000.0,RFID,Others,1
+419,Real Estate,82,767709758.0,Real Estate,Others,1
+420,Real Time,9,50099800.0,Real Time,Others,1
+421,Recreation,2,1636000.0,Recreation,Others,1
+422,Recruiting,8,91430270.0,Recruiting,"News, Search and Messaging",1
+423,Recycling,2,30075000.0,Recycling,Cleantech / Semiconductors,1
+424,Religion,2,32500000.0,Religion,Others,1
+425,Renewable Energies,10,158594835.0,Renewable Energies,Cleantech / Semiconductors,1
+426,Reputation,1,780000.0,Reputation,Others,1
+427,Restaurants,14,57508734.0,Restaurants,Entertainment,1
+428,Retail,8,67235999.0,Retail,"Social, Finance, Analytics, Advertising",1
+429,Retail Technology,1,1123503.0,Retail Technology,"Social, Finance, Analytics, Advertising",1
+430,Reviews and Recommendations,7,42445730.0,Reviews and Recommendations,Entertainment,1
+431,Robotics,3,7816130.0,Robotics,Others,1
+432,SEO,7,51750000.0,SEO,"News, Search and Messaging",1
+433,SaaS,76,561700246.0,SaaS,Others,1
+434,Sales Automation,3,34170000.0,Sales Automation,Others,1
+435,Sales and Marketing,9,55005983.0,Sales and Marketing,"Social, Finance, Analytics, Advertising",1
+436,Search,91,790322667.0,Search,"News, Search and Messaging",1
+437,Search Marketing,3,51900000.0,Search Marketing,"News, Search and Messaging",1
+438,Security,464,4494926552.0,Security,Others,1
+439,Semiconductor Manufacturing Equipment,1,12500000.0,Semiconductor Manufacturing Equipment,Cleantech / Semiconductors,1
+440,Semiconductors,673,26224983666.0,Semiconductors,Cleantech / Semiconductors,1
+441,Senior Citizens,2,32000000.0,Senior Citizens,Health,1
+442,Senior Health,0,0.0,Senior Health,Health,1
+443,Sensors,5,87259989.0,Sensors,Others,1
+444,Service Industries,1,10500000.0,Service Industries,Others,1
+445,Service Providers,16,305875166.0,Service Providers,Others,1
+446,Services,70,1198314921.0,Services,Others,1
+447,SexTech,2,2400000.0,SexTech,Health,1
+448,Shipping,0,0.0,Shipping,Others,1
+449,Soccer,1,1250000.0,Soccer,Automotive & Sports,1
+450,Social + Mobile + Local,1,5000000.0,Social + Mobile + Local,"Social, Finance, Analytics, Advertising",1
+451,Social Buying,3,8699999.0,Social Buying,"Social, Finance, Analytics, Advertising",1
+452,Social CRM,6,155950012.0,Social CRM,"Social, Finance, Analytics, Advertising",1
+453,Social Commerce,3,108380517.0,Social Commerce,"Social, Finance, Analytics, Advertising",1
+454,Social Fundraising,1,21000000.0,Social Fundraising,"Social, Finance, Analytics, Advertising",1
+455,Social Media,148,736664946.0,Social Media,"Social, Finance, Analytics, Advertising",1
+456,Social Media Marketing,1,2275000.0,Social Media Marketing,"Social, Finance, Analytics, Advertising",1
+457,Social Network Media,12,33342716.0,Social Network Media,"Social, Finance, Analytics, Advertising",1
+458,Software,3090,22163899426.0,Software,Others,1
+459,Solar,1,2041033.0,Solar,Cleantech / Semiconductors,1
+460,Space Travel,1,16500000.0,Space Travel,Cleantech / Semiconductors,1
+461,Specialty Chemicals,1,3000000.0,Specialty Chemicals,Health,1
+462,Specialty Foods,6,26010000.0,Specialty Foods,Health,1
+463,Sporting Goods,2,3300000.0,Sporting Goods,Automotive & Sports,1
+464,Sports,56,188316896.0,Sports,Automotive & Sports,1
+465,Staffing Firms,1,1500000.0,Staffing Firms,Others,1
+466,Startups,9,61320000.0,Startups,Others,1
+467,Storage,18,598230481.0,Storage,Manufacturing,1
+468,Synchronization,1,8000000.0,Synchronization,Others,1
+469,Systems,2,46000000.0,Systems,Others,1
+470,Tea,0,0.0,Tea,Others,1
+471,Technology,122,1521709525.0,Technology,Others,1
+472,Telecommunications,44,1115990889.0,Telecommunications,Others,1
+473,Television,2,17000000.0,Television,Entertainment,1
+474,Theatre,1,75000000.0,Theatre,Entertainment,1
+475,Therapeutics,11,54978691.0,Therapeutics,Health,1
+476,Ticketing,1,10000000.0,Ticketing,Entertainment,1
+477,Tracking,8,23506563.0,Tracking,Others,1
+478,Trading,2,8500000.0,Trading,Others,1
+479,Training,2,4399998.0,Training,Others,1
+480,Translation,1,4500000.0,Translation,Others,1
+481,Transportation,7,46908838.0,Transportation,Automotive & Sports,1
+482,Travel,52,224461848.0,Travel,Entertainment,1
+483,Travel & Tourism,2,6080000.0,Travel & Tourism,Entertainment,1
+484,User Interface,1,8250000.0,User Interface,Others,1
+485,Utilities,1,6000000.0,Utilities,Others,1
+486,Venture Capital,4,39500000.0,Venture Capital,"Social, Finance, Analytics, Advertising",1
+487,Video,6,44550000.0,Video,Entertainment,1
+488,Video Conferencing,1,9000000.0,Video Conferencing,Entertainment,1
+489,Video Games,2,2000000.0,Video Games,Entertainment,1
+490,Video Streaming,0,0.0,Video Streaming,Entertainment,1
+491,Video on Demand,4,6389987.0,Video on Demand,Entertainment,1
+492,Virtual Workforces,0,0.0,Virtual Workforces,Entertainment,1
+493,VoIP,4,43230000.0,VoIP,Entertainment,1
+494,Water,1,200004.0,Water,Cleantech / Semiconductors,1
+495,Wearables,2,16000000.0,Wearables,Cleantech / Semiconductors,1
+496,Web Browsers,2,28000000.0,Web Browsers,"News, Search and Messaging",1
+497,Web Design,1,20000000.0,Web Design,"News, Search and Messaging",1
+498,Web Development,4,55500000.0,Web Development,Others,1
+499,Web Hosting,384,4907519614.0,Web Hosting,Others,1
+500,Web Tools,1,10800000.0,Web Tools,Others,1
+501,Wine And Spirits,3,12170000.0,Wine And Spirits,Entertainment,1
+502,Wireless,7,102883929.0,Wireless,Entertainment,1
+503,Young Adults,1,100000000.0,Young Adults,Others,1
+504,iOS,1,1500000.0,iOS,Others,1
+505,iPad,9,15294179.0,iPad,Others,1
+506,iPhone,10,78450000.0,iPhone,Others,1
